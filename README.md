@@ -2,3 +2,4 @@
 * Mercury
 * Earth
 * jupiter
+* Uranus
